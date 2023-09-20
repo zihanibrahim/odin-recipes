@@ -1,7 +1,7 @@
 body {
     background: black;
     color: white;
-    text-align: center;
+    text-align:center;
 }
 
 ul li {
@@ -9,9 +9,7 @@ ul li {
     display: block;
     padding: 20px;
     line-height: 100px;
-    
+
 }
-
-
    
 
