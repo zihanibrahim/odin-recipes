@@ -2,13 +2,20 @@ body {
     background: black;
     color: white;
     text-align:center;
+  
 }
 
 ul li {
     list-style: none;
-    display: block;
-    padding: 20px;
-    line-height: 100px;
+   
+
+}
+
+.box1 {
+   background-color:yellow;
+   padding: 20px;
+   margin: 40px;
+   display:inline-block;
 
 }
    
