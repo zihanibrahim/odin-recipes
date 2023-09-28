@@ -11,12 +11,29 @@ ul li {
 
 }
 
-.box1 {
+.box1  {
    background-color:yellow;
    padding: 20px;
    margin: 40px;
    display:inline-block;
 
 }
+
+.box2 {
+    background-color:aqua;
+    padding: 20px;
+    margin: 40px;
+    display:inline-block;
+    
+}
+
+.box3 {
+    background-color:blanchedalmond;
+    padding: 20px;
+    margin: 40px;
+    display:inline-block;
+}
+
+
    
 
